@@ -8,6 +8,14 @@ SQL + BigQuery + Looker Studio analysis of how Generative AI affects academic pe
 
 ![Dashboard](dashboard/dashboard.png)
 
+# Interactive Dashboard
+
+🔗 View the interactive dashboard here:
+
+[Looker Studio Dashboard](https://datastudio.google.com/reporting/d314a512-7f06-47c4-89f7-a505295f8a0a)
+
+> The dashboard allows users to explore the main findings interactively.
+
 ---
 
 ## Project Objectives
